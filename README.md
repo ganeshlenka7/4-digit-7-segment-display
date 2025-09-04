@@ -29,4 +29,4 @@ GND         	GND
 
 circuit diagram:
 
-![4 digit 7 segment display]()
+![4 digit 7 segment display](4digit7segment%20display.jpeg)
